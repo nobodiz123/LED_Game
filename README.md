@@ -16,6 +16,6 @@ I was feeling a little bored and had a lot of free time on my hands especially d
 <img src="/media/top.JPG" alt="drawing" width="300"/>
 
 ## Run Through
-<img src="/media/placeholder.png" href="https://youtu.be/WHj-5krmt-g" alt="drawing" width="300"/>
+[![](http://img.youtube.com/vi/WHj-5krmt-g/0.jpg)](http://www.youtube.com/watch?v=WHj-5krmt-g "")
 
 
