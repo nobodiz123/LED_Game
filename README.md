@@ -16,6 +16,6 @@ I was feeling a little bored and had a lot of free time on my hands especially d
 <img src="/media/top.JPG" alt="drawing" width="300"/>
 
 ## Run Through
-[![IMAGE ALT TEXT](https://youtu.be/WHj-5krmt-g.jpg)](https://youtu.be/WHj-5krmt-g "LED Game")
+[![IMAGE ALT TEXT](/media/placeholder.JPG)](https://youtu.be/WHj-5krmt-g "LED Game")
 
 
