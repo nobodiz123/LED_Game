@@ -12,6 +12,6 @@ I was feeling a little bored and had a lot of free time on my hands especially d
 5. 4 different colored LEDs
 6. Passive buzzer
 
-<img src="/media/side.JPG" alt="drawing" width="200"/>
-![Setup](/media/top.JPG)
+<img src="/media/side.JPG" alt="drawing" width="300"/>
+<img src="/media/top.JPG" alt="drawing" width="300"/>
 
