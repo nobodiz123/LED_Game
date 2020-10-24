@@ -12,6 +12,6 @@ I was feeling a little bored and had a lot of free time on my hands especially d
 5. 4 different colored LEDs
 6. Passive buzzer
 
-![Setup](/media/side.png)
-![Setup](/media/top.png)
+![Setup](/media/side.JPG)
+![Setup](/media/top.JPG)
 
